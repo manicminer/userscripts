@@ -6,7 +6,8 @@
 // @version     1.0
 // @author      manicminer
 // @description Avoid inactivity on Azure Portal, prevent auto logout
-// @downloadURL https://github.com/manicminer/userscripts
+// @homepageURL https://github.com/manicminer/userscripts
+// @downloadURL https://github.com/manicminer/userscripts/raw/refs/heads/main/azure-portal-inactivity-avoidance.user.js
 // @updateURL   https://github.com/manicminer/userscripts/raw/refs/heads/main/azure-portal-inactivity-avoidance.user.js
 // ==/UserScript==
 
